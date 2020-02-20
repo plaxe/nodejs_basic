@@ -1,0 +1,22 @@
+{
+  "name": "https_server",
+  "version": "1.0.0",
+  "description": "secure http server",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node --inspect-brk index"
+  },
+  "keywords": [
+    "http",
+    "ssl",
+    "secure"
+  ],
+  "author": "o.nikitchenko@globallogic.com",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.2"
+  }
+}
