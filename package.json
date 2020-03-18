@@ -14,7 +14,7 @@
   "author": "o.nikitchenko@globallogic.com",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.2"
   },
   "devDependencies": {
     "@types/node": "^13.7.2"
